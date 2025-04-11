@@ -1,3 +1,7 @@
+# ⚠️ Important Notice
+
+This repository is a copy of a private project for work purposes. Some features may not work as expected.
+
 # WeatherPush
 
 WeatherPush est une application Go qui permet de recevoir des notifications push avec les prévisions météorologiques pour une ville spécifique.
